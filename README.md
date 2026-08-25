@@ -8,7 +8,7 @@ I worked with an HR dataset of **1,470 employee records** and used **Excel and P
 
 ## Dashboard Preview
 
-![HR Employee Attrition Analysis Dashboard](dashboard/overview.png)
+dashboard/Overview.png
 
 ## Excel Analysis
 
