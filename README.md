@@ -8,7 +8,8 @@ I worked with an HR dataset of **1,470 employee records** and used **Excel and P
 
 ## Dashboard Preview
 
-dashboard/Overview.png
+HR-Employee-Attrition-Analysis/dashboard
+/Overview.png
 
 ## Excel Analysis
 
