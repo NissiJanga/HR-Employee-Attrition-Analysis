@@ -10,6 +10,16 @@ I worked with an HR dataset of **1,470 employee records** and used **Excel and P
 
 ![HR Employee Attrition Analysis Dashboard](dashboard/overview.png)
 
+## Excel Analysis
+
+### Attrition by Job Role
+
+![Attrition by Job Role](excel-analysis/job-role-attrition.png)
+
+### Attrition by Age Group
+
+![Attrition by Age Group](excel-analysis/age-group-attrition.png)
+
 ## What I Worked On
 
 * Explored and prepared the HR dataset for analysis
