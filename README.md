@@ -6,9 +6,9 @@ This project focuses on analyzing employee attrition to understand the patterns 
 
 I worked with an HR dataset of **1,470 employee records** and used **Excel and Power BI** to explore the data, summarize employee information, and present the findings through visualizations and an interactive dashboard.
 
-## dashboard Preview
+## Dashboard Preview
 
-![HR Employee Attrition Analysis dashboard](dashboard/overview.png)
+![HR Employee Attrition Analysis Dashboard](Dashboard/Executive Overview.png)
 
 ## Excel Analysis
 
